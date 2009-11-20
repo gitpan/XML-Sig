@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                XML-Sig
-version:             0.2.1
+version:             0.21
 abstract:            An XML Digital Signature Toolkit
 license:             perl
 author:              
